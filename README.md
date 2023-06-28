@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bibek Poudel</h1>
-<h3 align="center">A passionate Fullstack developer from Nepal, Pokhara</h3>
+<h1 align="center">Namaste 🙏, I'm Bibek Poudel</h1>
+<h3 align="center">A passionate Fullstack developer from Nepal, Pokhara. Reah me at https://bibek-poudel.com.np</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekpoudel38&label=Profile%20views&color=0e75b6&style=flat" alt="bibekpoudel38" /> </p>
 
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working at **Aarambha IT Research Center**
 
 - 🌱 I’m currently learning **Javascript, React**
-
-- 👨‍💻 All of my projects are available at [bibek-poudel.com.np](bibek-poudel.com.np)
 
 - 💬 Ask me about **Flutter, Dart, Django, Django Rest Framework**
 
