@@ -3,11 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekpoudel38&label=Profile%20views&color=0e75b6&style=flat" alt="bibekpoudel38" /> </p>
 
-<p align="left"> <a href="https://twitter.com/poudelbibek38" target="blank"><img src="https://img.shields.io/twitter/follow/poudelbibek38?logo=twitter&style=for-the-badge" alt="poudelbibek38" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@bibekpo22577852" target="blank"><img src="https://img.shields.io/twitter/follow/@bibekpo22577852?logo=twitter&style=for-the-badge" alt="@bibekpo22577852" /></a> </p>
+
+- 🔭 I’m currently working at **Aarambha IT Research Center**
+
+- 🌱 I’m currently learning **Javascript, React**
+
+- 👨‍💻 All of my projects are available at [bibek-poudel.com.np](bibek-poudel.com.np)
+
+- 💬 Ask me about **Flutter, Dart, Django, Django Rest Framework**
+
+- 📫 How to reach me **poudelbibek38@gmail.com**
+
+- ⚡ Fun fact **I can learn new things in very short time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/poudelbibek38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poudelbibek38" height="30" width="40" /></a>
+<a href="https://twitter.com/@bibekpo22577852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bibekpo22577852" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/bibek-poudel-2a9889201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bibek-poudel-2a9889201" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/poudelbibek38@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="poudelbibek38@gmail.com" height="30" width="40" /></a>
+<a href="https://fb.com/poudel bibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poudel bibek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
