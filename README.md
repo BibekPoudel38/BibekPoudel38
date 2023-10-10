@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm Bibek Poudel</h1>
-<h3 align="center">A passionate Fullstack developer from Nepal, Pokhara. Reah me at https://bibek-poudel.com.np</h3>
+<h3 align="center">A passionate Fullstack developer from ST Louis, MO USA. Reah me at https://bibek-poudel.com.np</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekpoudel38&label=Profile%20views&color=0e75b6&style=flat" alt="bibekpoudel38" /> </p>
 
